@@ -15,7 +15,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/marketmetrics.git
+   git clone https://github.com/M1stakesWereMade/marketmetrics.git
    cd marketmetrics
 
 2. Установка зависимостей:
